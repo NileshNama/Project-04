@@ -1,0 +1,99 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section {
+    width: 70rem;
+    margin: auto;
+}
+
+
+
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 10rem;
+}
+
+[alt="brand-logo"]{
+    height: 3rem;
+}
+
+.grow-list{
+   flex-grow: 1;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 4rem;
+    font-size: 15px;
+    color: #CAD5E2;
+}
+
+.list-item {
+    margin-right: 30px;
+}
+
+.list-item:nth-child(1){
+    color: #000;
+}
+
+.btn{
+    background-color: #5855b3 ;
+    font-size: 15px;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.nav-button{
+    padding: 10px 20px;
+}
+
+
+.banner-container{
+    display: flex;
+
+}
+.banner-container div img{
+    position: absolute;
+    top: 8rem;
+    right: 0;
+    width: 700px;
+    
+}
+
+.banner-container{
+    width: 30%;
+    margin-top: 5rem;
+}
+
+.heading-text{
+    font-size: 50px;
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+.heading-text span{
+    color: #5855b3;
+}
+
+.description{
+    font-size: 13px;
+    color: #758283;
+    margin: 2rem 0;
+}
+
+.hero-btn{
+    padding: 1rem 3rem;
+    font-size: 1rem;
+}
