@@ -1,6 +1,6 @@
 <!-- Header Section -->
 
-# <a href="https://github.com/NileshNama/Project-04" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099071-1dacfa46-a984-4cbb-8a2e-16960c5f9995.png" alt="Lamp 3D Image" width="40" border="10" /> </a> Project-03
+# <a href="https://github.com/NileshNama/Project-04" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099071-1dacfa46-a984-4cbb-8a2e-16960c5f9995.png" alt="Lamp 3D Image" width="40" border="10" /> </a> Project-04
 
 [`Live-In-Production Demo`](https://project-04-by-nilesh.netlify.app/) _________________________________________ *Individual Project* | *Duration: 5-6 hours*
 
